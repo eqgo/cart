@@ -1,6 +1,6 @@
 package cart
 
-// Dim represents a dimension, either X or Y
+// Dim is a dimension on the 2D cartesian coordinate system, either X or Y
 type Dim bool
 
 const (
